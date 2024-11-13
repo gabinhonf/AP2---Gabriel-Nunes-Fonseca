@@ -27,8 +27,7 @@ O projeto está organizado da seguinte forma:
 ## Como Executar
 
 ### Passo 1: Clonar o Repositório
-git clone https://github.com/gabinhonf/AP2---Gabriel-Nunes-Fonseca.git cd sistema-gerenciamento-veiculos.
-
+git clone https://github.com/gabinhonf/AP2---Gabriel-Nunes-Fonseca.git
 ### Passo 2: Compilar o Projeto
 javac src/*.java
 
